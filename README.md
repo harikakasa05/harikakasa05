@@ -1,3 +1,4 @@
+![logo](https://media.licdn.com/dms/image/v2/D5616AQGbYU2WFdaIww/profile-displaybackgroundimage-shrink_350_1400/B56ZcRCb67GsAc-/0/1748337542416?e=1772064000&v=beta&t=8aroa7a3JfwzbuVCG4yT3nzpgjBvg3sGCX7NnHAVlFM)
 <h1 align="center">Hi 👋, I'm HARIKA KASA</h1>
 <h3 align="center">A Passionate full stack developer from India</h3>
 
